@@ -1,0 +1,1 @@
+This repository demonstrates a bug in React Router v6 related to nested routes and the wildcard (*) character.  The wildcard route unintentionally overrides other routes, leading to incorrect rendering.  A solution is provided to address this issue.
